@@ -1,0 +1,1 @@
+{"timeout_seconds_per_section":300,"output_bytes_per_section":2097152,"cpus":2,"memory_bytes":6442450944,"memory_swap_bytes":6442450944,"pids":128,"nofile":1024,"file_size_bytes":268435456,"work_tmpfs_bytes":4294967296,"tmp_tmpfs_bytes":134217728,"network":"none","uid":10001,"root_read_only":true,"capabilities":[],"no_new_privileges":true}
